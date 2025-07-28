@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="375" height="375" viewBox="0 0 375 375">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1562.5V1562.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H500V500H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H500V500H0Z"/>
+</g>
+<g clip-path="url(#clip_2)">
+<text fill="#f2f2f2" xml:space="preserve" transform="matrix(.75 0 0 .75 31.396439 108.570858)" font-size="132.88" font-family="Anton"><tspan y="146" x="23.296875 73.790119 160.42536 242.01134 326.78633">IHSAN</tspan></text>
+<text fill="#f2f2f2" xml:space="preserve" transform="matrix(.5769453 0 0 .5769453 83.90508 219.82097)" font-size="21.97" font-family="Poppins"><tspan y="22" x="65.46875 95.35123 125.541278 153.99578 178.18833 196.5152 224.64017 250.4584 278.18794">CODEIHSAN</tspan></text>
+</g>
+</svg>
